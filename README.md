@@ -84,3 +84,11 @@ Also integrates **Gemini API** for summarization of comments/chats.
 - Add toxicity & emotion classification
 - Multi-language support
 - Real-time dashboard with time-based sentiment trends
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f749d347-1b25-4b9d-bd61-bc09414f7667" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4d45e9c1-b27d-4031-abdb-86f750b6c44d" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b8a72d39-13bd-4bcd-96c1-d196ecf53d16" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9cca40e8-82be-4a4a-b8b7-242cca4114a0" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed36b81a-f554-42c3-bc28-9bd1842075fc" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/992f78b4-c391-4c0d-9f01-cb27135f19cd" />
