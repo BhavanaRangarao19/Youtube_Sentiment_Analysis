@@ -86,7 +86,7 @@ Also integrates **Gemini API** for summarization of comments/chats.
 - Real-time dashboard with time-based sentiment trends
 
 
-## Outputs ##:
+## Outputs :
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9cca40e8-82be-4a4a-b8b7-242cca4114a0" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b8a72d39-13bd-4bcd-96c1-d196ecf53d16" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4d45e9c1-b27d-4031-abdb-86f750b6c44d" />
